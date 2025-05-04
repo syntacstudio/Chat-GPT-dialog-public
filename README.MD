@@ -4,7 +4,7 @@ Thank you for using Chat GPT Dialog Menu and for taking the time to report issue
 
 To ensure issues are handled effectively, please follow these guidelines:
 
-##  înainte de a trimite (Before Submitting)
+## Before Submitting
 
 * **Search Existing Issues:** Please check the [existing issues](link-to-your-repo-issues-page) (replace with actual link) to see if your problem or suggestion has already been reported. If it has, feel free to add a 👍 reaction or provide additional details in the comments.
 * **Update Extension:** Ensure you are using the latest version of the Chat GPT Dialog Menu extension. The issue might have already been fixed.
